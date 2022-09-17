@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestRecipeApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_main">Let’s \nCooking</string>
+    <string name="splash_txt">Find best recipes for cooking</string>
+    <string name="home_header">Popular category</string>
+    <string name="search_header">Find best recipes\nfor cooking</string>
+    <string name="search_hint">Meal name</string>
+    <string name="favorite_header">Favorite recipes</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
